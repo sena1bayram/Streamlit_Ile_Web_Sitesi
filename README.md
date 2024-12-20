@@ -2,6 +2,8 @@
 
 Bu proje, Streamlit kullanılarak geliştirilmiş kapsamlı bir veri analizi ve makine öğrenimi platformudur. Kullanıcıların kolayca veri görselleştirme, model eğitimi ve analiz yapmasına olanak tanır.
 
+
+**Tanıtım videosu**
 https://github.com/user-attachments/assets/80797450-977c-40e5-9b40-9da009fe41e5
 
 ## 🚀 Özellikler
